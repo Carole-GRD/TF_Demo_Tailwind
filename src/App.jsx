@@ -11,11 +11,11 @@ function App() {
       <nav>
         <ul>
           <li><a>Accueil</a></li>
-          <li><a>À propos</a></li>
+          <li><a>Produits</a></li>
           <li><a>Contact</a></li>
         </ul>
       </nav>
-     <h1 className='text-red-500'>Hello World</h1>
+     <h1 className='text-blue-500'>Hello World</h1>
      <h2>Hello World</h2>
      <button className='btn'>Click Me</button>
      <button className='btn -dark'>Click Me</button>
