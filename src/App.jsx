@@ -11,8 +11,9 @@ function App() {
       <nav>
         <ul>
           <li><a>Accueil</a></li>
-          <li><a>À propos</a></li>
+          <li><a>Reseaux</a></li>
           <li><a>Contact</a></li>
+          <li><a>Liens</a></li>
         </ul>
       </nav>
      <h1 className='text-red-500'>Hello World</h1>
