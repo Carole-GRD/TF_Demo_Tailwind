@@ -24,7 +24,7 @@ function App() {
 
      <div className='bg-green-700 sm:bg-violet-500 md:bg-yellow-400'>Mon super texte</div>
 
-      <p className='sm:hidden hover:bg-blue-500'>coucou</p>
+      <p className='sm:hidden hover:bg-blue-500'>MODIF</p>
       <p className='dark:bg-sl'>Magnifique</p>
 
       <div className='h-20 w-screen bg-neutral-200'>
