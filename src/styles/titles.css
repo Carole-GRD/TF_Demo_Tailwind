@@ -1,0 +1,11 @@
+
+
+@layer base {
+    h2 {
+        @apply 
+        text-lg
+        text-pink-500
+        font-extrabold
+        sm:text-violet-600
+    }
+}
